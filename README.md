@@ -6,5 +6,5 @@ A dataset from United States Department of Agriculture (USDA) National Nutrient 
 GitHub_Proj7.pdf: Project report in PDF <br>
 GitHub_Proj7.R: R script
 
-You can view the Project Report in HTML by
+You can view the **Project Report** with interactive 3D plots in HTML by
 [clicking here](http://htmlpreview.github.com/?https://github.com/gapkim/USDA_Nutrient_Database/blob/master/GitHub_Proj7.html).
