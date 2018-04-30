@@ -7,4 +7,4 @@ GitHub_Proj7.pdf: Project report in PDF <br>
 GitHub_Proj7.R: R script
 
 You can view the Project Report in HTML by
-[clicking here](http://htmlpreview.github.com/?https://github.com/gapkim/cystfibr_dataset/blob/Tmp/GitHub_Proj6.html).
+[clicking here](https://github.com/gapkim/USDA_Nutrient_Databse/blob/master/GitHub_Proj7.html).
