@@ -7,4 +7,4 @@ GitHub_Proj7.pdf: Project report in PDF <br>
 GitHub_Proj7.R: R script
 
 You can view the **Project Report** with interactive 3D plots in HTML by
-[clicking here](http://htmlpreview.github.com/?https://github.com/gapkim/USDA_Nutrient_Database/blob/upload/GitHub_Proj7.html).
+[clicking here](http://htmlpreview.github.com/?https://github.com/gapkim/USDA_Nutrient_Database/blob/master/GitHub_Proj7.html).
